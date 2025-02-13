@@ -1,0 +1,34 @@
+
+frontname(EURO CUP)
+
+name(Euro Cup)
+
+team(Austria,80)
+team(Belgium,92)
+team(Croatia,78)
+team(Czech Republic,82)
+team(Denmark,94)
+team(England,98)
+team(Finland,68)
+team(France,88)
+team(Germany,86)
+team(Hungary,62)
+team(Italy,100)
+team(Netherlands,82)
+team(North Macedonia,54)
+team(Poland,60)
+team(Portugal,84)
+team(Russia,64)
+team(Scotland,58)
+team(Slovakia,66)
+team(Spain,96)
+team(Sweden,76)
+team(Switzerland,90)
+team(Turkey,56)
+team(Ukraine,80)
+team(Wales,70)
+
+
+
+
+
